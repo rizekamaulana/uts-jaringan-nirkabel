@@ -168,6 +168,8 @@ Buat video presentasi yang menjelaskan:
 3. Pengaturan wireless
 4. Pengujian koneksi
 5. Kesimpulan hasil praktikum
+6. Durasi video maksimal 3 menit
+7. File video maksimal 1GB
 
 Ketentuan Penilaian:
 - Membuat video presentasi : 10 Point
@@ -195,5 +197,6 @@ Ketentuan Penilaian:
 - Kesalahan kecil pada konfigurasi wireless tetap mempengaruhi nilai.
 - Pastikan koneksi Point to Point dapat berjalan dengan baik sebelum presentasi.
 - Upload laporan dan dokumentasi ke link yang tercantum pada E-Mail.
+- Nilai kelompok berlaku ke semua anggota, berikan kerjasama yang terbaik. Semangat!
 
 --------------------------------------------------
