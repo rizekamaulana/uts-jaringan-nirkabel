@@ -1,20 +1,16 @@
 # UTS Jaringan Nirkabel
 
-## Informasi Kelompok
-- Nama Kelompok : ........................................
-- Anggota Kelompok :
-  1. ........................................
-  2. ........................................
-  3. ........................................
+## Informasi Individu
+- Nama : ........................................
+- NIM : ........................................
 
 ## Mata Kuliah
 UTS Jaringan Nirkabel
 
 ## Ketentuan Pengerjaan
-- Jenis Pengerjaan : Kelompok
-  - Minimal 2 orang
-  - Maksimal 3 orang
-- Tenggat Waktu : 12 Mei 2026 Pukul 23:30 WIB
+- Jenis Pengerjaan : Individu
+- Tenggat Waktu : 27 Mei 2026 Pukul 23:59 WIB
+- Pengumpulan via E-Mail rizky_ekamaulana@udb.ac.id
 
 --------------------------------------------------
 
@@ -38,10 +34,10 @@ Nilai:
 
 ## 2. SSID
 Format:
-[NamaKelompok]_UTS
+remediasi[NIM]_UTS
 
 Contoh:
-KelompokA_UTS
+remediasi20101010_UTS
 
 Ketentuan Penilaian:
 - Sesuai ketentuan : 10 Point
@@ -52,7 +48,7 @@ Ketentuan Penilaian:
 
 ## 3. Password SSID
 Password:
-UTSudb2026!#
+RemediasiUTS2026!#
 
 Ketentuan Penilaian:
 - Sesuai ketentuan : 10 Point
@@ -90,11 +86,11 @@ Ketentuan Penilaian:
 ## 6. Konfigurasi IP Address
 
 Network:
-172.10.18.0/24
+192.168.251.0/24
 
 Contoh konfigurasi:
-- Access Point : 172.10.18.1
-- Station      : 172.10.18.2
+- Access Point : 192.168.251.1
+- Station      : 192.168.251.2
 
 Subnet Mask:
 255.255.255.0
@@ -134,11 +130,11 @@ Ketentuan Penilaian:
 
 ## Ping Test
 Contoh:
-ping 172.10.18.1
+ping 192.168.251.1
 
 atau
 
-ping 172.10.18.2
+ping 192.168.251.2
 
 Jika reply berhasil diterima maka koneksi Point to Point berhasil.
 
@@ -196,7 +192,6 @@ Ketentuan Penilaian:
 - Pastikan semua konfigurasi sesuai ketentuan.
 - Kesalahan kecil pada konfigurasi wireless tetap mempengaruhi nilai.
 - Pastikan koneksi Point to Point dapat berjalan dengan baik sebelum presentasi.
-- Upload laporan dan dokumentasi ke link yang tercantum pada E-Mail.
-- Nilai kelompok berlaku ke semua anggota, berikan kerjasama yang terbaik. Semangat!
+- Upload laporan dan dokumentasi ke E-Mail rizky_ekamaulana@udb.ac.id .
 
 --------------------------------------------------
